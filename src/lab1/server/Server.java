@@ -1,4 +1,4 @@
-package zad_domowe.server;
+package lab1.server;
 
 import java.util.HashMap;
 import java.util.Map;

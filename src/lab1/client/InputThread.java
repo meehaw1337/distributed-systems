@@ -1,4 +1,4 @@
-package zad_domowe.client;
+package lab1.client;
 
 import java.io.IOException;
 import java.io.PrintWriter;

@@ -1,4 +1,4 @@
-package zad_domowe.server;
+package lab1.server;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
